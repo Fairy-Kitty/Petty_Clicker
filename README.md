@@ -96,7 +96,9 @@ MVVM + Clean Architecture
 - 📱 Telegram: [@SverdlovaKatyaS]
 
 ## 📂 Дополнительные материалы
-- 📄 Отчёт по проекту: PettyClicker_Report.docx
+- 📄 Отчёт по проекту: [ОтчетPettyClicker.docx](ОтчетPettyClicker.docx)
+- 💻 Презентация по проекту:[ПрезентацияPettyClicker.pptx](ПрезентацияPettyClicker.pptx) 
+- 📜 Выступление по проекту: [ВыступлениеPettyClicker.docx](ВыступлениеPettyClicker.docx)
 
 ## 📄 Лицензия
 
